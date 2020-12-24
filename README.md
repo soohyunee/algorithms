@@ -1,4 +1,4 @@
-# Fundamentals
+# Algorithms
 
 This repository contains the files of Algorithm, Data structure, and basics of Computer science.<br>
 
