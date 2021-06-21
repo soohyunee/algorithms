@@ -1,11 +1,11 @@
 # Algorithms
 
-This repository contains the files of Algorithm, Data structure, and basics of Computer science.<br>
+Contains the solution files of LeetCode algorithms<br>
 
 File name
 ---------------------------------------------------------------------------------------------------
-index _ website _ title of the problem _ date of solved the problem<br>
-e.g) 01_HR_SortingArray_0229<br>
+index _ website _ title of the problem _ date of solved the problem.ipynb<br>
+e.g) 01_HR_SortingArray_0229.ipynb<br>
 
 Each abbreviation of the websites
 ----------------------------------------------------------------------------------------------------
